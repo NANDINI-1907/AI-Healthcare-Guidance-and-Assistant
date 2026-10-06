@@ -1,0 +1,20 @@
+[
+    {
+        "email": "25rh1a6683@mrecw.edu.in",
+        "date": "2026-10-05 11:29:36",
+        "symptoms": "cough, runny nose, stomach pain",
+        "result": "Common Cold"
+    },
+    {
+        "email": "ruchitha@gmail.com",
+        "date": "2026-10-05 14:59:40",
+        "symptoms": "headache",
+        "result": "Tension Headache"
+    },
+    {
+        "email": "ruchitha1@gmail.com",
+        "date": "2026-10-06 09:35:06",
+        "symptoms": "headache, stomach pain",
+        "result": "Tension Headache"
+    }
+]
